@@ -34,8 +34,12 @@ Grâce à Husky qui relance les test apres chaque commit
 npm run e2e
  ```
 - Automatiquement
-Grâce à playwright.yml qui creer un workflow dans github à chaque push vers le main
+Grâce à playwright.yml qui crée un workflow dans github à chaque push vers le main
 
+![alt text](image-3.png)
+
+Cela renvoie faux car il me semble que c'est la meme erreur qu'avec npm run e2e
+![alt text](image-4.png)
 ---
 
 ## Partie test unitaire
@@ -85,4 +89,3 @@ On peut lancer les tests e2e avec la commande suivante :
 Mes tests en e2e ne fonctionne pas chez ces messages d'erreurs : 
 
 ![alt text](image-2.png)
-
