@@ -17,16 +17,25 @@ npm run dev
 ### Lancer les tests
 
 #### Test unitaire 
+
+- Manuellement
  ```bash 
 npm run test
  ```
-Ou bien apres un commit
+- Automatiquement
+Grâce à Husky qui relance les test apres chaque commit
 
 
 #### Test e2e
-  ```bash 
+
+- Manuellement
+  
+```bash 
 npm run e2e
  ```
+- Automatiquement
+Grâce à playwright.yml qui creer un workflow dans github à chaque push vers le main
+
 ---
 
 ## Partie test unitaire
