@@ -82,3 +82,5 @@ On peut lancer les tests e2e avec la commande suivante :
   ```bash 
  npm run e2e
  ```
+Mes tests en e2e ne fonctionne pas chez ces messages d'erreurs : 
+
