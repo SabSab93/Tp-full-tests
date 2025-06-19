@@ -84,3 +84,5 @@ On peut lancer les tests e2e avec la commande suivante :
  ```
 Mes tests en e2e ne fonctionne pas chez ces messages d'erreurs : 
 
+![alt text](image-2.png)
+
